@@ -28,7 +28,8 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### Notes
 Describe any challenges encountered while building the app.
-I am starting to understand better the recycler view and also the benefit of the onBindViewHolder method compared to the onCreateViewHolder method in terms of cost.
+
+I am starting to understand better the recycler view and also the benefit of the onBindViewHolder method compared to the onCreateViewHolder method in terms of cost. I did find that I forgot to add the jsonObject.getString for the backdrop which was causing my images to not appear and then I realized that was missing.
 
 ### Open-source libraries used
 
