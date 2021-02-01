@@ -30,6 +30,8 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 Describe any challenges encountered while building the app.
 
+Understanding how we were using two apis one for the movie data and the other for the youtube video player made it more clear how the process of getting data from those apis work.
+
 ## Open-source libraries used
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
 - [Glide](https://github.com/bumptech/glide) - Image loading and caching library for Android
